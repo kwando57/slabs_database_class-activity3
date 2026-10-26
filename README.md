@@ -32,4 +32,4 @@ Batch processing handles programs or transactions in groups without user interac
 
 # Update and Delete
 
-![my screenshot](screenshots/update-delete.png)
+![my flowchart](screenshots/update-delete.png)
